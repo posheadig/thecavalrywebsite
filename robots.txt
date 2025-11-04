@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://thecavalryfilm.com/sitemap.xml
